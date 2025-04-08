@@ -2,11 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Apr 2025 19:09:37 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/my-first-post/</link>
+      <pubDate>Tue, 08 Apr 2025 19:09:37 +0800</pubDate>
+      <guid>//localhost:1313/my-first-post/</guid>
+      <description>&lt;p&gt;以下是借助 GitHub Pages 使用 Hugo 创建个人博客详细步骤及各操作的解释：&lt;/p&gt;
+&lt;h3 id=&#34;1-安装-hugo&#34;&gt;1. 安装 Hugo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：根据不同操作系统采用不同方式安装 Hugo。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Windows&lt;/strong&gt;：从 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo 官方发布页面&lt;/a&gt; 下载适合系统的二进制文件，解压后将可执行文件所在目录添加到系统环境变量 &lt;code&gt;PATH&lt;/code&gt; 中。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;macOS&lt;/strong&gt;：使用 Homebrew 安装，在终端运行 &lt;code&gt;brew install hugo&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;：可以使用包管理器安装，如在 Ubuntu 上运行 &lt;code&gt;sudo apt-get install hugo&lt;/code&gt; ，或者从源码编译安装。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;目的&lt;/strong&gt;：Hugo 是一个静态网站生成器，安装它是为了后续能够使用其命令来创建、构建和管理博客站点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成内容&lt;/strong&gt;：在系统中安装了 Hugo 可执行程序，使得在终端中可以直接调用 &lt;code&gt;hugo&lt;/code&gt; 命令。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;影响和意义&lt;/strong&gt;：这是搭建博客的基础，没有安装 Hugo，后续的操作都无法进行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-创建新的-hugo-站点&#34;&gt;2. 创建新的 Hugo 站点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;my-blog&lt;/code&gt; 是博客站点的名称，可以根据喜好修改。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目的&lt;/strong&gt;：使用 Hugo 的 &lt;code&gt;new site&lt;/code&gt; 命令创建一个新的博客站点目录结构，然后进入该目录进行后续操作。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成内容&lt;/strong&gt;：生成一个名为 &lt;code&gt;my-blog&lt;/code&gt; 的目录，其中包含了 Hugo 站点的基本目录结构，如 &lt;code&gt;content&lt;/code&gt;（用于存放博客文章）、&lt;code&gt;layouts&lt;/code&gt;（存放页面布局模板）、&lt;code&gt;static&lt;/code&gt;（存放静态资源，如图像、CSS、JavaScript 文件等）、&lt;code&gt;themes&lt;/code&gt;（用于存放主题）等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;影响和意义&lt;/strong&gt;：为博客搭建提供了一个基本的框架，方便后续组织和管理博客的各种资源和文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-选择并安装主题&#34;&gt;3. 选择并安装主题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：以 &lt;code&gt;hugo - PaperMod&lt;/code&gt; 主题为例，使用 Git 子模块的方式安装：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule add --depth &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; https://github.com/adityatelange/hugo - PaperMod.git themes/PaperMod
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目的&lt;/strong&gt;：为博客选择一个合适的主题，以美化博客的外观和布局。使用 Git 子模块安装可以方便地管理主题的更新。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成内容&lt;/strong&gt;：在项目根目录下初始化了一个 Git 仓库，并且在 &lt;code&gt;themes&lt;/code&gt; 目录下克隆了 &lt;code&gt;hugo - PaperMod&lt;/code&gt; 主题仓库。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;影响和意义&lt;/strong&gt;：主题决定了博客的视觉风格和用户体验，不同的主题具有不同的功能和特点，选择合适的主题可以让博客更具吸引力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-配置站点&#34;&gt;4. 配置站点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：编辑 &lt;code&gt;config.toml&lt;/code&gt; 或 &lt;code&gt;config.yaml&lt;/code&gt; 文件（取决于使用的配置文件格式），配置基本信息，例如：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;baseURL&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://yourusername.github.io/&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;languageCode&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en - us&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;My Hugo Blog&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;theme&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;PaperMod&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目的&lt;/strong&gt;：配置博客的基本信息，如网站的基础 URL、语言代码、标题以及使用的主题等。这些配置信息会影响博客的生成和展示。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成内容&lt;/strong&gt;：修改了配置文件的内容，使其包含所需的配置信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;影响和意义&lt;/strong&gt;：正确的配置是博客正常运行和展示的关键。例如，&lt;code&gt;baseURL&lt;/code&gt; 决定了博客在互联网上的访问地址，&lt;code&gt;theme&lt;/code&gt; 指定了使用的主题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-创建博客文章&#34;&gt;5. 创建博客文章&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new posts/first - post.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目的&lt;/strong&gt;：使用 Hugo 的 &lt;code&gt;new&lt;/code&gt; 命令创建一篇新的博客文章，存放在 &lt;code&gt;content/posts&lt;/code&gt; 目录下。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成内容&lt;/strong&gt;：在 &lt;code&gt;content/posts&lt;/code&gt; 目录下生成一个名为 &lt;code&gt;first - post.md&lt;/code&gt; 的 Markdown 文件，文件开头包含一些元数据（如标题、日期等），可以使用 Markdown 语法编辑文章内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;影响和意义&lt;/strong&gt;：这是博客的核心内容，通过创建文章可以不断丰富博客的内容，吸引读者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-本地预览&#34;&gt;6. 本地预览&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;-D&lt;/code&gt; 表示包含草稿文章。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
