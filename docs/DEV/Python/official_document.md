@@ -2,7 +2,7 @@
 
 python官方文档和社区的资料是最好的学习资源。
 
-如果要理解底层原理：学习Cpython文档
+如果要理解底层原理：学习 Cpython文档
 
 - python官网: 人生苦短，我用python
     - [python](https://www.python.org/)

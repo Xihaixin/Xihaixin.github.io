@@ -25,6 +25,7 @@ nav:
     - Git:
       - Git: LECTURE/Git/git.md
       - Git例子: LECTURE/Git/git-demos.md
+      - 远程分支同步: LECTURE/Git/远程分支的同步.md
     - Mkdocs-material:
       - 快速开始: LECTURE/mkdocs-material/quick-start.md
   - 博客:
@@ -153,7 +154,7 @@ edit_uri: edit/main/docs/
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
 repo_url: https://github.com/Xihaixin/Xihaixin.github.io
-repo_name: Xinhaixin.github.io
+repo_name: Xihaixin.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
