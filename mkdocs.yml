@@ -1,7 +1,7 @@
 # [Info]
 # 左上角标题
 site_name: 溪海莘的个人网站
-site_url: https://xihaixin.github.io/
+site_url: https://xihaixin.cn/
 site_author: 溪海莘
 site_description: 溪海莘的个人网站
 
@@ -26,6 +26,7 @@ nav:
       - Git: LECTURE/Git/git.md
       - Git例子: LECTURE/Git/git-demos.md
       - 远程分支同步: LECTURE/Git/远程分支的同步.md
+      - ssh克隆不稳定根源: LECTURE/Git/git_ssh.md
     - Mkdocs-material:
       - 快速开始: LECTURE/mkdocs-material/quick-start.md
   - 博客:
@@ -171,10 +172,10 @@ extra:
       link: https://github.com/Xihaixin
     - name: Bilibili | 溪海莘
       icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
+      link: https://space.bilibili.com/1910066580
     - name: 小红书 | 溪海莘
       icon: fontawesome/solid/images
-      link: https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369
+      link: https://xhslink.com/m/99v1nIWKpNq
 
 # [Extensions]
 plugins:
