@@ -19,14 +19,14 @@ nav:
     - ME/experience.md
   - 教程:
     - LECTURE/index.md
-    - Linux:
-      - Linux项目: LECTURE/Linux/linux.md
-      - 查找Linux相关命令: LECTURE/Linux/commands-concise.md
-    - Git:
-      - Git: LECTURE/Git/git.md
-      - Git例子: LECTURE/Git/git-demos.md
+    - Git info:
+      - Git 介绍: LECTURE/Git/git.md
+      - Git 示例: LECTURE/Git/git-demos.md
       - 远程分支同步: LECTURE/Git/远程分支的同步.md
-      - ssh克隆不稳定根源: LECTURE/Git/git_ssh.md
+      - ssh克隆不稳定: LECTURE/Git/git_ssh.md
+    - Linux info:
+      - Linux 介绍: LECTURE/Linux/linux.md
+      - 相关命令: LECTURE/Linux/commands-concise.md
     - Mkdocs-material:
       - 快速开始: LECTURE/mkdocs-material/quick-start.md
   - 博客:
@@ -40,13 +40,13 @@ nav:
       - BLOG/Linux/vim.md
       - BLOG/Linux/unix.md
       - BLOG/Linux/kernel-compile.md
-    - OS:
+    - OS info:
       - BLOG/OS/start-it.md
     - 计算机网络:
       - BLOG/Network/internet-history.md
-    - 英语:
+    - Engish study:
       - BLOG/English/NewConceptEnglish.md
-  - 开发:
+  - 技术开发:
     - DEV/index.md
     - DEV/interests.md
     - Python:
@@ -59,15 +59,15 @@ nav:
       - DEV/Java/basic-knowledge.md
     - Scrapy:
       - DEV/Scrapy/introduce.md
-  - 研究:
+  - 一些研究:
     - RESEARCH/index.md
     - PDFTranslate:
       - RESEARCH/PDFTranslate/introduce.md
     - AIModel:
       - RESEARCH/AIModel/ChatGPT.md
-  - 随笔:
+  - 个人随笔:
     - ESSAY/index.md
-    - 随笔记:
+    - 随笔:
       - ESSAY/Jottings/2511.md
       - ESSAY/Jottings/2512.md
     - 文章:
@@ -89,7 +89,6 @@ nav:
     - WEBSITE/index.md
     - WEBSITE/build.md
     - WEBSITE/help.md
-    - WEBSITE/test.md
 
 # [UI]
 # [top]
