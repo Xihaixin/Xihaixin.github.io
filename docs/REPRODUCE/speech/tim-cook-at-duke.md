@@ -1,70 +1,69 @@
-# Tim Cook's Commencement Address at Duke University, 2018
+# 毕业生要无所畏惧
 
-> This address could be watched at [Bilibili](https://www.bilibili.com/video/BV19p411Z7TW) with English and Chinese bilingual subtitles.
+>苹果 CEO 库克 (Tim Cook) 在杜克大学演讲（完整版）：毕业生要无所畏惧  date: 2018年5月13日 -- 此时库克已经毕业 30 年
 
-Hello, Blue Devils! It's great to be back at Duke.
+大家好，蓝魔们(蓝魔是杜克大学的昵称，源于杜克大学篮球队)！很高兴回到母校。
 
-It's an honor to stand before you—-both as your commencement speaker and a fellow Duke graduate.I earned my degree from the Fuqua School in 1988. In preparing for this speech, I reached out to one of my favorite professors from back then. Bob Reinheimer taught this great course in Management Communications, which included sharpening your public speaking skills.
+很荣幸能站在你们面前——既是作为你们的毕业典礼演讲人，也是作为一名杜克校友。1988年，我从福库商学院获得了学位。在准备这次演讲时，我联系了当年最喜欢的一位教授——鲍勃·雷因海默。他教过一门很棒的管理沟通课程，其中就包括提升公众演讲技巧。
 
-We hadn't spoken for decades, so I was thrilled when he told me: he remembered a particularly gifted public speaker who took his class in the 1980s… with a bright mind and a charming personality! He said he knew—-way back then, this person was destined for greatness.
+我们已经几十年没联系了。他告诉我，上世纪 80 年代在自己班里出现了一位极具天赋的公众演讲者。听到这个消息我激动不已。他说，早在当时他就知道，这个人注定会有非凡成就。
 
-You can imagine how this made me feel. Professor Reinheimer had an eye for talent. And, if I do say so myself, I think his instincts were right… Melinda Gates has really made her mark in the world.
+你们可以想象到我有多震撼吗！雷因.海默教授确实有识才之眼。而且，恕我直言，我觉得他的直觉非常敏锐…… 梅琳达·盖茨（Melinda Gates，比尔-盖茨的夫人）确实在世界上留下了具有影响力的印记。
 
-I'm grateful to Bob, and Dean Boulding, and all of my Duke professors. Their teachings have stayed with me throughout my career.
-I want to thank President Price, the Duke Faculty, and my fellow members of the Board of Trustees for the honor of speaking with you today. I'd also like to recognize this year's honorary degree recipients.
+我感谢鲍勃、博尔丁院长，以及所有杜克大学的教授们。他们的教诲贯穿了我的整个职业生涯。我要感谢普莱斯校长、杜克大学的全体教师，以及董事会的各位同仁，感谢你们让我今天有这份荣幸在此演讲。我还要向今年的荣誉学位获得者致以敬意。
 
-But most of all, congratulations to the class of 2018!
+但最重要的，是祝贺2018届的毕业生们！
 
-Now no graduate gets to this moment alone. I want to acknowledge your parents, grandparents and friends here cheering you on, just as they have every step of the way. Let's give them our thanks.
+没有哪个毕业生是独自走到这一刻的。我要感谢你们的父母、祖父母和朋友们，他们在这里为你们加油，正如他们一路走来一直在支持你们一样。让我们向他们表示感谢。
 
-Today especially, I remember my mother, who watched me graduate from Duke. I wouldn't have been there that day, or made it here today without her support. Let's give our special thanks to all the mothers here today, on Mother's Day.
+今天我特别怀念我的母亲，她曾见证我从杜克大学毕业。没有她的支持，我不可能走到那一天，也不可能站在今天这里。今天是母亲节，让我们特别感谢在场的所有母亲。
 
-I have wonderful memories here--studying, and not studying, with people I still count as friends to this day. Cheering at Cameron for every victory. Cheering even louder when that victory is over Carolina.
+我在这里有太多美好的回忆——我与他们中大多数至今仍然是朋友。我们仍然一起学习，以及在卡梅伦球馆为每一次胜利欢呼，尤其是战胜北卡罗来纳大学时，欢呼声更是格外响亮。
 
-Look back over your shoulder fondly and say goodbye to act one of your life. And then quickly look forward. Act two begins today. It's your turn to reach out and take the baton.
+当我们深情的回顾这几年，你会发现现在到了告别过去的时光、继续向前看的时候了。从今天开始行动，生活由你们自己掌控。
 
-You entered the world at a time of great challenge. Our country is deeply divided--and too many Americans refuse to hear any opinion that differs from their own. Our planet is warming with devastating consequences. And there are some who deny it's even happening. Our schools and communities suffer from deep inequalit--we fail to guarantee every student the right to a good education.
+你们步入的是一个充满巨大挑战的世界。太多美国人拒绝听取任何与自己不同的意见。我们的地球正在经历全球性变暖，后果将是毁灭性的——而有些人甚至否认这样的现实。我们的学校和社区深受严重不平等的困扰——我们未能保障每个学生接受良好教育的权利。
 
-And yet we are not powerless in the face of these problems. You are not powerless to fix them. No generation has ever had more power than yours. And no generation has a change to change things faster than yours can. The pace at which progress is possible has accelerated dramatically. Aided by technology, every individual has the tools, potential, and reach to build a better world. That makes this the best time in history to be alive.
+但是面对这些问题，我们并非无能为力。没有哪一代人比你们拥有更强大的力量，也没有哪一代人比你们能更快地推动改变。在技术的帮助下，每个人都可以通过工具、自身的潜能和影响力去建设一个更美好的世界。这使得此时此刻成为人类历史上最好的时代。
 
-Whatever you choose to do with your life… Wherever your passion takes you. I urge you to take the power you have been given and use it for good. Aspire to leave this world better than you found it.
+无论你们选择如何度过一生，无论你们的激情将你们带往何方，我恳请你们，善用你们所获得的力量，用它来做有益的事。立志让这个世界比你来到时变得更好。
 
-I didn't always see life as clearly as I do today. But I've learned the greatest challenge of life is knowing when to break with conventional wisdom. Don't just accept the world you inherit today. Don't just accept the status quo. No big challenge has ever been solved, and no lasting improvement has ever been achieved, unless people dare to try something different. Dare to think different.
+我并非一直像今天这样看清人生。但我懂得了：人生最大的挑战，是知道何时该打破传统智慧。不要只是一昧的接受今天你所生活的世界，不要安于现状。没有哪个重大挑战是靠墨守成规解决的，没有哪项持久进步是靠安于现状实现的——除非人们敢于尝试不同的事情。敢于“不同凡想”。
 
-I was lucky to learn from someone who believed this deeply. Someone who knew that changing the world starts with "following a vision, not a path." He was my friend and mentor, Steve Jobs.
+我很幸运，能够从一位坚信这条理念的人那里学习很多东西。他知道，改变世界始于“追随远见，而非遵循既有道路”。他是我的朋友和导师——史蒂夫·乔布斯。
 
-Steve's vision was that great ideas come from a restless refusal to accept things as they are. And those principles still guide us at Apple today. We reject the notion that global warming is inevitable. That's why we run Apple on 100% renewable energy. We reject the excuse that getting the most out of technology means trading away your right to privacy. So we choose a different path: Collecting as little of your data as possible, being thoughtful and respectful when it's in our care. Because we know it belongs to you.
+史蒂夫认为：伟大的创意来自永不满足于现状、追求不断精进与突破的心。这些原则至今仍在指引着苹果公司。我们拒绝接受全球变暖不可避免的观念——所以苹果公司使用 100% 可再生能源。我们拒绝接受“要充分享受科技便利就必须牺牲隐私权”的借口——所以我们选择了一条不同的道路：尽可能少地收集你的数据，当数据在我们手中时，我们心怀审慎与尊重。因为我们知道，数据属于你。
 
-In every way, at every turn, the question we ask ourselves is not "what can we do" but "what should we do". Because Steve taught us that's how change happens. And from him I learned to never be content with way that things are. I believe this mindset comes naturally to young people… and you should never let go of that restlessness.
+在每一个方面、每一个转折点，我们问自己的不是“我们能做什么”，而是“我们应该做什么”。因为史蒂夫教会了我们，这才是改变发生的方式。从他身上，我学会了永远不满足于现状。我相信这种心态对年轻人来说是顺其自然的事情，并且我希望你们永远保持精益求精和创新突破的理念。
 
-So today's ceremony isn't just about presenting you with a degree, it's about presenting you with a question. How will you challenge the status quo? How will you push the world forward?
+所以，今天的典礼不只是授予你们一个学位，更是向你们提出一个问题：你将如何挑战现状？你将如何推动世界前进？
 
-Fifty years ago today--May 13th, 1968--Robert Kennedy was campaigning in Nebraska, and spoke to a group of students who were wrestling with that same question. Those were troubled times, too. The U.S. was at war in Vietnam. There was violent unrest in America's cities. And the country was still reeling from the assassination of Dr. Martin Luther King a month earlier.
+五十年前的今天，在1968年5月13日，罗伯特·肯尼迪正在内布拉斯加州竞选，他对一群同样在思考这个问题的学生发表了讲话。那也是一个动荡的年代。美国深陷越南战争。美国城市中暴力骚乱不断。而就在一个月前，马丁·路德·金博士(Martin Luther King)刚刚遇刺身亡，整个国家仍沉浸在悲痛之中。
 
-Kennedy gave the students a call to action. When you look across this country, and when you see peoples' lives held back by discrimination and poverty… when you see injustice and inequality. He said, you should be the last people to accept things as they are.
+肯尼迪向学生们发出了行动的号召：当你放眼这个国家，当你看到人们的生活被种族歧视和贫困所束缚……当你看到不公与不平等。他说，你们应该是坚守到最后一刻的人。
 
-Let Kennedy's words echo here today."You should be the last people to accept it."Whatever path you've chosen… be it medicine, business, engineering, the humanities--whatever drives your passion… Be the last to accept the notion that the world you inherit cannot be improved. Be the last to accept the excuse that says, "that's just how things are done here." 
+让肯尼迪的话在今天这里回响：“你们应该是最不愿接受现状的人。”无论你们选择了哪条道路——医学、商业、工程、人文学科——无论什么驱动着你们的激情——你们应该是最无法忍受“这个世界无法改善”这一观念的人。你们应该使最无法忍受“事情本来就是这样”这个借口的人。
 
-Duke graduates, you should be the last people to accept it. And you should be the first to change it.
+杜克的毕业生们，你们应该是最不愿接受现状的人。你们应该是最先站出来改变它的人。
 
-The world-class education you've receive--that you've worked so hard for--gives you opportunities that few people have. You are uniquely qualified, and therefore uniquely responsible, to build a better way forward. That won't be easy. It will require great courage. But that courage will not only help you live your life to the fullest—-it will empower you to transform the lives of others.
+你们所接受的都是世界一流的教育，你应该为之努力奋斗，因为并不是所有人都有这样的机会。你们拥有独一无二的能力，也因此肩负着独一无二的责任，去开创一条更好的前进之路。这并不容易。它需要巨大的勇气。但这种勇气不仅会帮助你们活出最充实的人生——它还会赋予你们力量，去改变他人的生活。
 
-Last month I was in Birmingham to mark the fiftieth anniversary of Dr. King's assassination. And I had the incredible privilege of spending time with women and men who marched and worked alongside him. Many of them were younger at the time than you are now. They told me that when they defied their parents and joined the sit-ins and boycotts, when they faced the police dogs and firehoses, they were risking everything they had--becoming foot soldiers for justice without a second thought. Because they knew that change had to come. Because they believed so deeply in the cause of justice. Because they knew, even (with) all the adversity they had faced, they had the chance to build something better for the next generation.
+上个月我前往伯明翰参加了马丁.路德金逝世 50 周年纪念活动。我有幸与那些曾与他一起游行、并肩工作的人们共度了一段时光。他们中的许多人当时比你们现在还年轻。他们告诉我，当他们违背父母的意愿参加静坐和抵制活动时，当他们面对警犬和高压水枪时，他们冒着失去一切的风险——毫不犹豫地成为捍卫公正的斗士。因为他们知道，改变必须到来。因为他们如此深信正义的事业。因为他们知道，即使面临如此多的逆境，他们仍有机会为下一代建设更美好的未来。
 
-We can all learn from their example. If you hope to change the world, you must find your fearlessness. Now, if you're anything like I was on graduation day, maybe you're not feeling so fearless. Maybe you're thinking about the job you hope to get, or wondering where you're going to live, or how to repay that student loan. These, I know, are real concerns. I had them, too. But don't let those worries stop you from making a difference.
+我们都能从他们的榜样中学习。如果你们希望改变世界，就必须找到你们勇敢的那一面。如果你们像我毕业那天一样，也许此刻你们并不觉得无所畏惧。也许身处毕业典礼的你们正在考虑自己将来的工作、不知道未来会住在哪里、还在为如何偿还学生贷款发愁。我知道这些都是应该担忧的事情，但不要让这些阻碍妨碍你做出改变。
 
-Fearlessness means taking the first step, even if you don't know where it will take you. It means being driven by a higher purpose, rather than by applause. It means knowing that you reveal your character when you stand apart, more than when you stand with the crowd.
+无畏意味着迈出第一步，即使你不知道它会将你带向何方。它也意味着被更高远的使命所驱动，而非被掌声所驱使。意味着当你独树一帜时，比随波逐流时更能彰显你的品格。
 
-If you step up, without fear of failure… if you talk and listen to each other, without fear of rejection… if you act with decency and kindness, even when no one is looking, even if it seems small or inconsequential, trust me, the rest will fall into place.
+如果你们挺身而出，不惧失败……如果你们彼此交谈、相互倾听，不担心被拒绝……如果你们以正直和善良行事，即使无人注视，即使看似微不足道——相信我，其余的一切都会水到渠成。
 
-More importantly, you'll be able to tackle the big things when they come your way. It's in those truly trying moments that the fearless inspire us.
+更重要的是，当重大挑战来临时，你们将有能力去应对。正是在那些真正艰难的时刻，无所畏惧的精神激励着我们。
 
-Fearless like the students of Parkland, Florida who refuse to be silent about the epidemic of gun violence, and have rallied millions to their cause. Fearless like the women who say "me, too" and "time's up"… women who cast light into dark places, and move us toward a more just and equal future. Fearless like those who fight for the rights of immigrants… who understand that our only hopeful future is one that embraces all who want to contribute.
+就像佛罗里达州帕克兰市的学生们一样，他们拒绝在枪支暴力这一流行病面前沉默，并将数百万人聚集到他们的事业中。就像那些说出“我也是”和“时间到了”的女性一样无畏——她们照亮了黑暗的角落，推动我们走向一个更公正、更平等的未来。就像那些为移民权利而奋斗的人一样无畏——他们明白，我们唯一有希望的未来，是拥抱所有愿意为之贡献的人的未来。
 
-Duke graduates, be fearless! Be the last people to accept things as they are, and the first people to stand up and change them for the better. 
+杜克的毕业生们，请无所畏惧！做最不愿接受现状的人，做最先站出来将它变得更好的人！
 
-In 1964, Martin Luther King, Jr. gave a speech at Page Auditorium to an overflow crowd. Students who couldn't get a seat listened from outside on the lawn. Dr. King warned them that someday we would all have to atone, not only for the words and actions of the bad people, but for "the appalling silence and indifference of the good people, who sit around and say, 'Wait on time.'"
+1964年，马丁·路德·金在佩奇礼堂面对爆满的人群发表演讲。没能挤进礼堂的学生们坐在外面的草坪上聆听。金博士告诫他们，总有一天我们所有人都要赎罪：作恶的人为言行赎罪，对世间各种不公冷眼旁观的人为沉默与冷漠赎罪。
 
-Martin Luther King stood right here at Duke, and said:"The time is always right to do right." For you, graduates, that time is now. It will always be now. It's time to add your brick to the path of progress. It's time for all of us to move forward. And it's time for you to lead the way.
+马丁·路德·金曾站在杜克大学这里说：“只要做对的事情，永远都是最好的时机。”对你们来说，毕业生们，这个时机就是现在。这个时代轮到你们来引领方向，是时候让我们所有人向前迈进了。。
 
-Thank you, and congratulations, Class of 2018!
+谢谢你们，祝贺你们，2018届的毕业生们！
