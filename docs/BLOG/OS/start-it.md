@@ -1,4 +1,4 @@
-# 操作系统从零开始教程（os-tutorial）
+# 操作系统-从零开始
 
 
 _⚠️ 注意！[os-tutorial](https://github.com/cfenollosa/os-tutorial)这是一个已废弃的旧项目，存在技术和设计层面的问题（详见[此处](https://github.com/cfenollosa/os-tutorial/issues/269)）。你可以通过本教程体验学习乐趣，但如果想系统学习操作系统设计，建议参考更现代、权威的资料。⚠️_

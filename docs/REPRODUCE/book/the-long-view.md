@@ -1,4 +1,4 @@
-# 远见 摘录
+# 远见文段摘录
 
 > 作者：Brain Fetherstonhaugh
 > 
