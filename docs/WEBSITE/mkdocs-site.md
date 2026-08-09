@@ -1,4 +1,4 @@
-# Publish a Website with Material for MkDocs and GitHub Pages
+# Publish Website with Material
 
 template at <https://github.com/Yang-Xijie/mkdocs-site>
 
