@@ -29,7 +29,6 @@ nav:
       - 相关命令: LECTURE/Linux/commands-concise.md
   - 博客:
     - BLOG/index.md
-    - BLOG/others.md
     - Markdown:
       - BLOG/Markdown/grammars.md
       - BLOG/Markdown/github-pages.md
@@ -43,9 +42,8 @@ nav:
       - BLOG/Network/internet-history.md
     - Engish study:
       - BLOG/English/NewConceptEnglish.md
-  - 技术开发:
+  - 技术:
     - DEV/index.md
-    - DEV/interests.md
     - Python:
       - DEV/Python/official_document.md
     - Flask:
