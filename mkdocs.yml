@@ -50,11 +50,10 @@ nav:
     - 文章:
       - ESSAY/Articles/251120-reaearch.md
     - 转载:
-      - REPRODUCE/index.md
-      - REPRODUCE/speech/tim-cook-at-duke.md
-      - REPRODUCE/book/the-long-view.md
-      - REPRODUCE/book/harford-occupation-choice.md
-      - REPRODUCE/article/proses.md
+      - ESSAY/speech/tim-cook-at-duke.md
+      - ESSAY/book/the-long-view.md
+      - ESSAY/book/harford-occupation-choice.md
+      - ESSAY/article/proses.md
   - 网站:
     # 访客打开网站第一个看到的是 docs/index.md
     # 构建网站时，不用管报错 "The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md"
