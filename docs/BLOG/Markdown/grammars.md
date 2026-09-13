@@ -1,3 +1,11 @@
+---
+title: "Markdown-语法学习"
+date: 2025-12-04
+updated: 2026-08-09
+author: "溪海莘"
+description: "Markdown 基础语法学习笔记，涵盖标题、列表、链接、图片、代码块等常用写法。"
+---
+
 # Markdown-语法学习
 
 > <span id="top">**文章开头**</span>

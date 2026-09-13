@@ -1,3 +1,10 @@
+---
+title: "Unix and Linux"
+date: 2025-12-04
+author: "溪海莘"
+description: "Unix 与 Linux 的设计哲学和核心概念学习笔记。"
+---
+
 # Unix and Linux
 
 The design of Unix systems is based on “Unix Philosophy”

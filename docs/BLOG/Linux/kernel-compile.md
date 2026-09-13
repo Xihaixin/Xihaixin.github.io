@@ -1,3 +1,10 @@
+---
+title: "Linux 内核编译尝试"
+date: 2025-12-04
+author: "溪海莘"
+description: "从 kernel.org 下载源码、编译并安装 Linux 内核的实践记录。"
+---
+
 # Linux 内核编译尝试
 
 ## 资源

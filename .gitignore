@@ -2,4 +2,8 @@
 site/
 .vscode
 
+# python hooks cache
+__pycache__/
+*.pyc
+
 

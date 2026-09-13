@@ -1,3 +1,11 @@
+---
+title: "Linux 内核"
+date: 2025-12-04
+updated: 2025-12-19
+author: "溪海莘"
+description: "Linux 内核文档的构建与在线阅读指南。"
+---
+
 # Linux 内核
 
 以下内容来自[Linux](https://github.com/torvalds/linux)

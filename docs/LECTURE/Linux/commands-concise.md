@@ -1,3 +1,10 @@
+---
+title: "Linux-command"
+date: 2025-12-04
+author: "溪海莘"
+description: "轻松通过 docker 部署 linux-command 网站。"
+---
+
 # Linux-command
 
 [Linux-command:linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command/)

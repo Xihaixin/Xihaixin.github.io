@@ -1,3 +1,10 @@
+---
+title: "Publish Website with Material"
+date: 2026-08-09
+author: "溪海莘"
+description: "用 MkDocs Material 从零搭建并发布个人网站的步骤记录。"
+---
+
 # Publish Website with Material
 
 template at <https://github.com/Yang-Xijie/mkdocs-site>

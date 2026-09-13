@@ -1,3 +1,11 @@
+---
+title: "mkdocs-material"
+date: 2025-12-04
+updated: 2026-07-24
+author: "溪海莘"
+description: "创建并构建 MkDocs 站点的基础命令记录。"
+---
+
 # mkdocs-material 
 
 ## 基础环境建设

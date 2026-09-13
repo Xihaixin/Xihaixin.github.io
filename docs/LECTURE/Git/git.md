@@ -1,3 +1,11 @@
+---
+title: "Git"
+date: 2025-12-04
+updated: 2026-03-26
+author: "溪海莘"
+description: "Git 是开源项目，遵循 GNU 通用公共许可证第 2 版（部分组件采用与 GPLv2 兼容的其他许可证）。它最初由林纳斯·托瓦兹（Linus Torvalds）在全球开发者社区的…"
+---
+
 # Git
 
 [Git项目:快速、可扩展的分布式版本控制系统](https://github.com/git/git),提供非常丰富的命令集，既支持高层级操作，也允许直接访问底层核心功能。

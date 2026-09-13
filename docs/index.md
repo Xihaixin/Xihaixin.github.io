@@ -1,40 +1,120 @@
-# 关于我
-
-这里是 [溪海莘](https://Xihaixin.cn) 的个人网站
-
-- 通过主题和目录浏览文章。
-    - 电脑端：在上方标签栏选择主题，在左侧目录选择文章。
-    - 移动端：点击左上角图标选择主题和文章。
-- 搜索关键词查找文章。
-
+---
+title: 首页
+hide:
+  - toc
+  - footer
 ---
 
-> 以下信息更新于 2026.9.13
+<div class="qt-home">
+  <section class="qt-hero" aria-labelledby="qt-hero-title">
+    <div class="qt-hero__copy fade-in">
+      <h1 id="qt-hero-title" class="home-title">溪海莘</h1>
+      <div class="qt-hero__lead">
+        <p class="home-subtitle">记录技术与生活的个人网站</p>
+        <div class="qt-hero__intro">
+          <p>你好，我是溪海莘。</p>
+          <p>在这里，遇见不一样的世界</p>
+          <p>品味深入人心的故事和技术。</p>
+        </div>
+      </div>
 
+      <div class="qt-greeting">
+        <button id="greeting" class="qt-weather fade-in" type="button"
+          aria-expanded="false" aria-label="查看当前时间">
+          <svg class="qt-weather__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="8.5"/>
+            <path d="M12 7.5V12l3 1.8"/>
+          </svg>
+          <span id="greeting-status" class="greeting-status">你好</span>
+          <span class="qt-weather__chevron" aria-hidden="true"></span>
+        </button>
+        <div id="greeting-detail" class="qt-weather__detail" aria-hidden="true">
+          <span id="greeting-time" class="greeting-time"></span>
+        </div>
+      </div>
 
-## 个人信息
+      <p class="qt-uptime" data-launch="2025-12-04T00:00:00+08:00">
+        <span class="qt-uptime__dot" aria-hidden="true"></span>
+        <span>本站已稳定运行</span>
+        <span id="uptime-value" class="qt-uptime__value">—</span>
+      </p>
+    </div>
 
-更多信息请查看 [个人介绍](./ABOUT/index.md)
+    <div class="qt-hero__tide" aria-hidden="true">
+      <span class="qt-tide__drop"></span>
+      <span class="qt-tide__ripples">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </div>
+  </section>
 
+  <section id="recent-posts" class="qt-section qt-recent fade-in" aria-labelledby="recent-heading">
+    <header class="qt-section__header">
+      <h2 id="recent-heading">最近更新</h2>
+      <a class="qt-section__more" href="BLOG/">全部文章 <span aria-hidden="true">↗</span></a>
+    </header>
 
-## 主要经历与个人现状
+    <div class="qt-article-index">
+      <!-- RECENT_UPDATES_START -->
+      <!-- RECENT_UPDATES_END -->
+    </div>
+  </section>
 
-- (2022.9 - 2026.6) [河南理工大学电子工程系](https://wdxy.hpu.edu.cn/info/1102/3065.htm)本科
+  <section id="about-me" class="qt-section qt-about fade-in" aria-labelledby="about-heading">
+    <div class="qt-about__portrait">
+      <span class="qt-about__avatar" aria-hidden="true">溪</span>
+      <p>溪海莘<br><span>讲一点故事 · 聊一些技术</span></p>
+    </div>
+    <div class="qt-about__content">
+      <p class="qt-section__index" aria-hidden="true">ABOUT</p>
+      <h2 id="about-heading">关于我</h2>
+      <p class="qt-about__lead">涓涓细流聚为溪，条条小溪终入海。</p>
+      <p>你好，我是溪海莘，HPU 电子信息工程本科。这里讲述故事，记录文字，研磨技术</p>
+      <a class="qt-text-link" href="ABOUT/">了解更多 <span aria-hidden="true">↗</span></a>
+    </div>
+  </section>
 
-## 关于此博客
+  <section class="qt-section qt-featured fade-in" aria-labelledby="featured-heading">
+    <header class="qt-section__header">
+      <h2 id="featured-heading">推荐文章</h2>
+    </header>
 
-- **注**：本网站借鉴 @[杨希杰](https://yang-xijie.github.io/) 的样例模板进行搭建。^~^(在此表达感谢)
+    <div class="qt-featured__layout">
+      <a class="qt-featured__main" href="ESSAY/Articles/251120-reaearch/">
+        <span class="qt-featured__visual" aria-hidden="true"><span>NOV</span><span>20</span></span>
+        <span class="qt-featured__copy">
+          <span class="qt-featured__meta">思考 · 随笔</span>
+          <strong>做事情的逻辑</strong>
+          <span>在行动之前，先把问题本身想清楚。</span>
+          <span class="qt-text-link">阅读全文 <span aria-hidden="true">↗</span></span>
+        </span>
+      </a>
 
-### 站点导航介绍
+      <nav class="qt-featured__list" aria-label="更多推荐文章">
+        <a href="BLOG/Network/internet-history/"><span>互联网历史</span><span aria-hidden="true">↗</span></a>
+        <a href="BLOG/Linux/kernel-compile/"><span>Linux 内核编译尝试</span><span aria-hidden="true">↗</span></a>
+        <a href="LECTURE/Git/git-demos/"><span>Git 典型使用案例</span><span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </section>
 
-下面是站点对应 doc 目录下的结构，我们可以看到 nav 下面的一级标题就是网站的 header 中的导航栏，其主要内容为：[首页, 博客, 技术, 教程, 足迹, 网站, 关于]。每次导航到一级标题后，首先会显示该标题所对应的目录中 index.md 文档的页面内容。然后博客内容区域的左侧是一级标题下对二级、三级等标题的导航。
+  <section class="qt-section qt-paths fade-in" aria-labelledby="paths-heading">
+    <header class="qt-section__header">
+      <h2 id="paths-heading">继续浏览</h2>
+    </header>
+    <nav class="qt-paths__grid" aria-label="网站主要入口">
+      <a href="BLOG/"><span>博客</span><small>学习笔记与技术文章</small><b aria-hidden="true">↗</b></a>
+      <a href="DEV/"><span>技术</span><small>开发实践与工具</small><b aria-hidden="true">↗</b></a>
+      <a href="LECTURE/"><span>教程</span><small>Git / Linux 等使用教程</small><b aria-hidden="true">↗</b></a>
+      <a href="ABOUT/"><span>关于</span><small>了解本站与作者</small><b aria-hidden="true">↗</b></a>
+    </nav>
+  </section>
 
-接下来，我想要在此记录一下文件的英文命名，做一个备忘和提醒：
-
-- BLOG: 博客文章，包括对 Linux, Markdown, NetWork, OS, English 等方面的介绍和说明
-- DEV: 专业开发领域，包括 Java, Python, Scrapy
-- ESSAY: 这部分是随笔和笔记
-- LECTURE: 这个部分是一些教程，例如对git, Linux, Mkdocs-masterial
-- REPRODUCE: 这是转载的一些文章，讲座，演讲之类的内容
-- RESEARCH: 一些研究，例如对 AIModel, PDFTranslate(pdf 翻译，之前研究过一个开源项目)
-- WEBSITE: 本网站的一些说明，介绍等内容
+  <footer class="qt-home-footer fade-in">
+    <p>溪海莘</p>
+    <p>使用 <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">MkDocs Material</a> 构建</p>
+  </footer>
+</div>

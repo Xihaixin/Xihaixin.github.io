@@ -1,3 +1,10 @@
+---
+title: "哈佛职业生涯设计-摘录"
+date: 2026-09-13
+author: "Timothy Butler, James Waldroop（溪海莘 摘录）"
+description: "《哈佛职业生涯设计》摘录：如何找到真正适合自己的职业方向。"
+---
+
 # 哈佛职业生涯设计-摘录
 
 > 作者：Timothy Butler, James Waldroop

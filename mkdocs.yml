@@ -62,6 +62,12 @@ nav:
     - WEBSITE/quick-start.md
     - WEBSITE/build.md
     - WEBSITE/mkdocs-site.md
+    - 本站改造记录:
+      - WEBSITE/rebuild/index.md
+      - WEBSITE/rebuild/homepage.md
+      - WEBSITE/rebuild/theme.md
+      - WEBSITE/rebuild/metadata.md
+      - WEBSITE/rebuild/analytics.md
   - 关于:
     - ABOUT/index.md
     - ABOUT/ability.md
@@ -105,7 +111,7 @@ theme:
     - navigation.indexes
     # 打开 Tab 时左侧目录全部展开
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
-    - navigation.expand
+    # - navigation.expand
     # 搜索输入一些字母时推荐补全整个单词
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/#search-suggestions
     - search.suggest
@@ -130,13 +136,19 @@ edit_uri: edit/main/docs/
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
 repo_url: https://github.com/Xihaixin/Xihaixin.github.io
-repo_name: Xihaixin.github.io
+repo_name: haishen
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
 copyright: 溪海莘 CC-BY-4.0
 # [bottom-right corner]
 extra:
+  # [访问统计：Google Analytics 4]
+  # 衡量 ID：GA4 后台 → 管理 → 数据流 → 「衡量 ID」
+  analytics:
+    provider: google
+    property: G-1P7EVZP3CJ
+
   # [添加社交网络图标和链接]
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
   # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
@@ -145,9 +157,6 @@ extra:
     - name: GitHub | Xihaixin
       icon: fontawesome/brands/github
       link: https://github.com/Xihaixin
-    - name: Bilibili | 溪海莘
-      icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/1910066580
     - name: 小红书 | 溪海莘
       icon: fontawesome/solid/images
       link: https://xhslink.com/m/99v1nIWKpNq
@@ -165,6 +174,14 @@ plugins:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
   # https://squidfunk.github.io/mkdocs-material/plugins/tags/#meta.tags
   - tags
+
+# [首页「最近更新」自动生成]
+# 扫描内容目录，按最后更新时间排序并注入 docs/index.md
+hooks:
+  - hooks/recent_updates.py
+  # 为文章页注入作者 / 日期 / 摘要元数据
+  - hooks/page_meta.py
+
 markdown_extensions:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
@@ -208,8 +225,11 @@ extra_javascript:
   - javascripts/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+  # [首页交互：is-homepage 类、时间问候、滚动淡入]
+  - javascripts/homepage.js
 extra_css:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
   # [自定义 css]
+  - stylesheets/extra.css

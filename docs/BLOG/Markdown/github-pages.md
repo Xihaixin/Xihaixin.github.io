@@ -1,3 +1,10 @@
+---
+title: "GitHub Pages"
+date: 2025-12-04
+author: "溪海莘"
+description: "简单来说，GitHub Pages 是可以轻松快速部署静态网站的方式，你可以在 GitHub 的每一个仓库创建一个对应的静态网站，存放说明或文档。"
+---
+
 # GitHub Pages
 
 简单来说，`GitHub Pages` 是可以轻松快速部署静态网站的方式，你可以在 GitHub 的每一个仓库创建一个对应的静态网站，存放说明或文档。

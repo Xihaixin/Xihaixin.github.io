@@ -1,3 +1,10 @@
+---
+title: "远见文段摘录"
+date: 2026-09-13
+author: "Brian Fetherstonhaugh（溪海莘 摘录）"
+description: "《远见》摘录：职业生涯不是短跑，而是一场至少 45 年的马拉松。"
+---
+
 # 远见文段摘录
 
 > 作者：Brain Fetherstonhaugh

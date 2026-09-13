@@ -1,3 +1,11 @@
+---
+title: "操作系统-从零开始"
+date: 2025-12-04
+updated: 2026-08-09
+author: "溪海莘"
+description: "跟着 os-tutorial 从零编写操作系统的学习记录。"
+---
+
 # 操作系统-从零开始
 
 
