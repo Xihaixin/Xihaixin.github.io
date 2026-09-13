@@ -8,25 +8,6 @@ site_description: 溪海莘的个人网站
 # [Navigtion]
 nav:
   - 首页: index.md
-  - Me:
-    - ME/index.md
-    - ME/introduction.md
-    - ME/profile.md
-    - ME/contact.md
-    - ME/account.md
-    - ME/description.md
-    - ME/ability.md
-    - ME/experience.md
-  - 教程:
-    - LECTURE/index.md
-    - Git info:
-      - Git 介绍: LECTURE/Git/git.md
-      - Git 示例: LECTURE/Git/git-demos.md
-      - 远程分支同步: LECTURE/Git/远程分支的同步.md
-      - ssh克隆不稳定: LECTURE/Git/git_ssh.md
-    - Linux info:
-      - Linux 介绍: LECTURE/Linux/linux.md
-      - 相关命令: LECTURE/Linux/commands-concise.md
   - 博客:
     - BLOG/index.md
     - Markdown:
@@ -40,8 +21,6 @@ nav:
       - BLOG/OS/start-it.md
     - 计算机网络:
       - BLOG/Network/internet-history.md
-    - Engish study:
-      - BLOG/English/NewConceptEnglish.md
   - 技术:
     - DEV/index.md
     - Python:
@@ -54,30 +33,27 @@ nav:
       - DEV/Java/basic-knowledge.md
     - Scrapy:
       - DEV/Scrapy/introduce.md
-  - 一些研究:
-    - RESEARCH/index.md
-    - PDFTranslate:
-      - RESEARCH/PDFTranslate/introduce.md
-    - AIModel:
-      - RESEARCH/AIModel/ChatGPT.md
-  - 个人随笔:
+  - 教程:
+    - LECTURE/index.md
+    - Git info:
+      - Git 介绍: LECTURE/Git/git.md
+      - Git 示例: LECTURE/Git/git-demos.md
+      - 远程分支同步: LECTURE/Git/远程分支的同步.md
+      - ssh克隆不稳定: LECTURE/Git/git_ssh.md
+    - Linux info:
+      - Linux 介绍: LECTURE/Linux/linux.md
+      - 相关命令: LECTURE/Linux/commands-concise.md
+  - 足迹:
     - ESSAY/index.md
     - 随笔:
-      - ESSAY/Jottings/2511.md
-      - ESSAY/Jottings/2512.md
       - ESSAY/Jottings/archive.md 
-      - ESSAY/Jottings/2608.md
     - 文章:
       - ESSAY/Articles/251120-reaearch.md
-      - ESSAY/Articles/251203-build-blogsite.md
-  - 转载:
-    - REPRODUCE/index.md
-    - 演讲:
+    - 转载:
+      - REPRODUCE/index.md
       - REPRODUCE/speech/tim-cook-at-duke.md
-    - 摘录:
       - REPRODUCE/book/the-long-view.md
       - REPRODUCE/book/harford-occupation-choice.md
-    - 文章:
       - REPRODUCE/article/proses.md
   - 网站:
     # 访客打开网站第一个看到的是 docs/index.md
@@ -87,6 +63,9 @@ nav:
     - WEBSITE/quick-start.md
     - WEBSITE/build.md
     - WEBSITE/mkdocs-site.md
+  - 关于:
+    - ABOUT/index.md
+    - ABOUT/ability.md
 
 # [UI]
 # [top]

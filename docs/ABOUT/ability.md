@@ -1,7 +1,5 @@
-# 开发技术
+# 技术栈
 
-
-## 开发
 
 - 数据分析
     - [MySQL](https://pytorch.org) / [Python](https://www.python.org)
